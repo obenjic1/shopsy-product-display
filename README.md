@@ -22,7 +22,7 @@ A modern and responsive e-commerce platform built with **React** for showcasing 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/commercial-sales-site.git
+   git clone https://github.com/obenjic1/shopsy-product-display
    cd commercial-sales-site
 
 it comes with a lot of animations 
